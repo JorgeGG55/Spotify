@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/search"
+        android:title="Buscar" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/dashboard"
+        android:title="Tu biblioteca" />
+
+    <item
+        android:id="@+id/navigation_premium"
+        android:icon="@drawable/spotify"
+        android:title="Premium" />
+
+</menu>
